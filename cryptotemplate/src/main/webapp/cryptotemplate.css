@@ -11,7 +11,7 @@ body{
     height: 1000px;
     /* width: 100vw; */
     background-color:#fff;
-    background-image: url(/cryptotemplate/src/main/webapp/WEB-INF/images\ task1website/hero-bg.png);
+    background-image: url("/src/main/webapp/images task1website/hero-bg.png");
     background-size: 1600px 1000px;
     /* padding: 50px; */
 color: white;
@@ -188,7 +188,7 @@ justify-content: center;
 #box2{
     height: 400px;
     width: 50%;
-    background-image: url("/cryptotemplate/src/main/webapp/WEB-INF/images\ task1website/slider-imgmobile1");
+    background-image: url("/src/main/webapp/images task1website/slider-imgmobile1");
     background-position: 100px 30px;
     background-size: 500px 400px ;
     /* padding-bottom: 20px; */
